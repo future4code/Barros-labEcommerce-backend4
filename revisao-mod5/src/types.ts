@@ -14,5 +14,5 @@ export enum GENDER  {
         id: Number,
         name: string
         gender: GENDER,
-        destination?: string
+        description?: string
     }
