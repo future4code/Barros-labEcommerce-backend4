@@ -9,3 +9,6 @@ app.put("/character", createCharacter)
 app.delete("/character/:id", deleteCharacter)
 
 // app.get("/movie/:id/characters")
+
+// app.get("/movies")
+// app.delete("/movies")
