@@ -1,4 +1,9 @@
-# labEcommerce-backend
+# Projeto Revisão Backend
 
 
-### Coloque as informações do seu projeto, o link da documentação e o link deploy
+Nesse projeto foi desenvolvido um sistema back-end  
+acessar informações de uma lista de filmes, o link da documentação é:
+
+https://documenter.getpostman.com/view/22376520/2s8YzP3R2C
+
+
